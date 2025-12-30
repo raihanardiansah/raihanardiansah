@@ -13,12 +13,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Learning **[Technology you're learning]**
+- 🔭 Currently study on **Amikom University Yogyakarta**
+- 🌱 Learning **Web Development and Artificial Intelligence**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, APIs, or anything tech!**
-- 📫 Reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 📫 Reach me: **raihanardiansah0910@gmail.com**
 
 ---
 
@@ -83,8 +82,8 @@
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=raihanardiansah&repo=REPO_NAME_1&theme=radical&hide_border=true)](https://github.com/raihanardiansah/REPO_NAME_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=raihanardiansah&repo=REPO_NAME_2&theme=radical&hide_border=true)](https://github.com/raihanardiansah/REPO_NAME_2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=raihanardiansah&repo=manukan-one&theme=radical&hide_border=true)](https://github.com/raihanardiansah/manukan-one)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=raihanardiansah&repo=svargaApp&theme=radical&hide_border=true)](https://github.com/raihanardiansah/svargaApp)
 
 </div>
 
@@ -94,10 +93,10 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-website.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raihanardiansah)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raihan.ardiansh)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://raihan-ardiansah.vercel.app)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihanardiansah0910@gmail.com)
 
 </div>
 
