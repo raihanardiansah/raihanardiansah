@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently study on **Amikom University Yogyakarta**
+- 🔭 Currently study on **Amikom Yogyakarta University**
 - 🌱 Learning **Web Development and Artificial Intelligence**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, APIs, or anything tech!**
