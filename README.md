@@ -82,7 +82,7 @@
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=raihanardiansah&repo=manukan-one&theme=radical&hide_border=true)](https://github.com/raihanardiansah/manukan-one)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=raihanardiansah&repo=manukan_one&theme=radical&hide_border=true)](https://github.com/raihanardiansah/manukan_one)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=raihanardiansah&repo=svargaApp&theme=radical&hide_border=true)](https://github.com/raihanardiansah/svargaApp)
 
 </div>
