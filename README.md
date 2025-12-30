@@ -16,8 +16,8 @@
 - 🔭 Currently working on **[Your Current Project]**
 - 🌱 Learning **[Technology you're learning]**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, APIs, or anything tech! **
-- 📫 Reach me:  **[your.email@example.com]**
+- 💬 Ask me about **Web Development, APIs, or anything tech!**
+- 📫 Reach me: **[your.email@example.com]**
 - ⚡ Fun fact: **[Something interesting about you]**
 
 ---
@@ -28,7 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396? style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -57,7 +57,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanardiansah&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp. com/?user=raihanardiansah&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raihanardiansah&theme=radical&hide_border=true)
 
 </div>
 
@@ -75,7 +75,7 @@
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel. app/graph?username=raihanardiansah&theme=react-dark&hide_border=true)](https://github.com/raihanardiansah)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raihanardiansah&theme=react-dark&hide_border=true)](https://github.com/raihanardiansah)
 
 ---
 
@@ -96,7 +96,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000? style=for-the-badge&logo=firefox&logoColor=white)](https://your-website.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-website.com)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
@@ -107,11 +107,11 @@
   
 ### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api? type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 👀 Profile Views
 
-![](https://komarev.com/ghpvc/? username=raihanardiansah&color=blueviolet&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=raihanardiansah&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
