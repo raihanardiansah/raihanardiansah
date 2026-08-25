@@ -21,14 +21,15 @@
 ```text
 const developer = {
     name: "Raihan Ardi Ansah",
-    role: "Information Systems Student & Developer",
+    role: "Information Systems Student & Software Developer",
     coreFocus: [
-        "Natural Language Processing",
+        "Artificial Intelligence & NLP",
         "Web Development",
-        "Data & AI Systems"
+        "Data Science & Analytics"
     ],
-    currentFocus: "Developing intelligent data pipelines"
+    currentFocus: "Building intelligent software and data-driven systems"
 };
+
 ```
 
 - 🔭 **Fokus Pengembangan:** Aplikasi web, pipeline analitik data, dan rekayasa perangkat lunak.
@@ -78,12 +79,6 @@ const developer = {
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raihanardiansah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" height="160" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=raihanardiansah&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
 </div>
 
 ---
