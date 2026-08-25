@@ -72,9 +72,11 @@ const developer = {
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=raihanardiansah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" height="160" alt="GitHub Stats" />
+</div>
 
 <br/>
 
+<div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raihanardiansah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" height="160" alt="Top Languages" />
 </div>
 
