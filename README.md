@@ -37,14 +37,6 @@ const developer = {
 
 ---
 
-### 🏆 Pencapaian Akun (GitHub Trophies)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raihanardiansah&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 🛠️ Tech Stack & Ekosistem
 
 <table align="center" width="100%">
