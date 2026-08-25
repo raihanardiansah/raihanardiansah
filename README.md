@@ -20,10 +20,14 @@
 
 ```text
 const developer = {
-    name: "Raihan Ardi Ansah",
-    role: "Software Engineer & Researcher",
-    coreFocus: ["Natural Language Processing", "Web Systems", "Data Structures & Algorithms"],
-    currentFocus: "Developing intelligent data pipelines and scalable web applications"
+    name: "Raihan Ardi Ansah",
+    role: "Software Engineer & Researcher",
+    coreFocus: [
+        "Natural Language Processing",
+        "Web Systems",
+        "Data Structures & Algorithms"
+    ],
+    currentFocus: "Developing intelligent data pipelines"
 };
 ```
 
@@ -36,7 +40,7 @@ const developer = {
 ### 🏆 Pencapaian Akun (GitHub Trophies)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raihanardiansah&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raihanardiansah&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
