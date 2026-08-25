@@ -78,7 +78,7 @@ const developer = {
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=raihanardiansah&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raihanardiansah&layout=compact&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
 </div>
 
 ---
