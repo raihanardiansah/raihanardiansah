@@ -2,7 +2,7 @@
 
   <h1>Halo, Saya Raihan Ardi Ansah 👋</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineer+%26+Problem+Solver;AI+%26+NLP+Researcher;Web+%26+Backend+Developer;Data+Structures+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Information+Systems+Student;Software+Developer;AI+%26+NLP+Researcher;Web+%26+Backend+Developer" alt="Typing SVG" />
 
   <br/><br/>
 
@@ -21,11 +21,11 @@
 ```text
 const developer = {
     name: "Raihan Ardi Ansah",
-    role: "Software Engineer & Researcher",
+    role: "Information Systems Student & Developer",
     coreFocus: [
         "Natural Language Processing",
-        "Web Systems",
-        "Data Structures & Algorithms"
+        "Web Development",
+        "Data & AI Systems"
     ],
     currentFocus: "Developing intelligent data pipelines"
 };
