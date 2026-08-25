@@ -55,7 +55,8 @@ const developer = {
       <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" /><br/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /><br/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /><br/>
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /><br/>
     </td>
     <td align="center" width="33%" valign="top">
       <h4>⚙️ Tools & Database</h4>
